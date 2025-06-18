@@ -38,7 +38,7 @@ Screenshots of analysis can be found in the `screenshots/` folder:
 
 ## 📄 Report
 
-The full lab submission can be found in [Lab_Report.pdf](./Lab_Report.pdf).
+The full lab submission can be found in [Lab_Report.pdf](./pcap-analysis-wireshark.pdf).
 
 ## 🔒 Legal & Ethical Disclaimer
 
